@@ -1,3 +1,5 @@
+package com.empresa;
+
 import java.util.Scanner;
 
 public class Contador {
